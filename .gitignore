@@ -1,0 +1,4 @@
+# local overrides (scripts/config.sh reads it; never commit it)
+.env
+
+__pycache__/
